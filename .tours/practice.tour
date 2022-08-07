@@ -1,0 +1,22 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "practice",
+  "steps": [
+    {
+      "file": "DeveloperProductivity.Api/Program.cs",
+      "description": "If you don't want swagger tooling to appear, uncomment this line",
+      "line": 21
+    },
+    {
+      "file": "DeveloperProductivity.Api/Program.cs",
+      "description": "This is probably the most accurate weather alogorithm in the world, use with care.",
+      "line": 36
+    },
+    {
+      "file": "DeveloperProductivity.Api/Program.cs",
+      "description": "If you comment this line, you'll get a persistent warning.",
+      "line": 63
+    }
+  ],
+  "ref": "practice"
+}
