@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "storage1": {
+      "type": "storage",
+      "connectionId": "storage-connection-string",
+      "dynamicId": null
+    }
+  }
+}
