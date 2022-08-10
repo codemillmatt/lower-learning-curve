@@ -3,9 +3,11 @@ on:
   push:
     branches:
       - main
+      - practice
   pull_request:
     branches:
       - main
+      - practice
 
 jobs:
   build:
